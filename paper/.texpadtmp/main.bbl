@@ -1,0 +1,65 @@
+\begin{thebibliography}{10}
+
+\bibitem{girshick14CVPR}
+Ross Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik.
+\newblock Rich feature hierarchies for accurate object detection and semantic
+  segmentation.
+\newblock In {\em Computer Vision and Pattern Recognition}, 2014.
+
+\bibitem{he2014spatial}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Spatial pyramid pooling in deep convolutional networks for visual
+  recognition.
+\newblock In {\em Computer Vision--ECCV 2014}, pages 346--361. Springer, 2014.
+
+\bibitem{girshickICCV15fastrcnn}
+Ross Girshick.
+\newblock Fast r-cnn.
+\newblock In {\em International Conference on Computer Vision ({ICCV})}, 2015.
+
+\bibitem{ren2015faster}
+Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun.
+\newblock Faster r-cnn: Towards real-time object detection with region proposal
+  networks.
+\newblock {\em arXiv preprint arXiv:1506.01497}, 2015.
+
+\bibitem{fidler2013bottom}
+Sanja Fidler, Roozbeh Mottaghi, Raquel Urtasun, et~al.
+\newblock Bottom-up segmentation for top-down detection.
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2013 IEEE
+  Conference on}, pages 3294--3301. IEEE, 2013.
+
+\bibitem{lecun1989backpropagation}
+Yann LeCun, Bernhard Boser, John~S Denker, Donnie Henderson, Richard~E Howard,
+  Wayne Hubbard, and Lawrence~D Jackel.
+\newblock Backpropagation applied to handwritten zip code recognition.
+\newblock {\em Neural computation}, 1(4):541--551, 1989.
+
+\bibitem{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1097--1105, 2012.
+
+\bibitem{Zeiler:2014fr}
+Matthew~D Zeiler and Rob Fergus.
+\newblock {Visualizing and Understanding Convolutional Networks}.
+\newblock In {\em Computer Vision {\textendash} ECCV 2014}, pages 818--833.
+  Springer International Publishing, Cham, September 2014.
+
+\bibitem{Simonyan14c}
+K.~Simonyan and A.~Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em CoRR}, abs/1409.1556, 2014.
+
+\bibitem{He2015}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock {\em arXiv preprint arXiv:1512.03385}, 2015.
+
+\bibitem{He2016}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Identity mappings in deep residual networks.
+\newblock {\em arXiv preprint arXiv:1603.05027}, 2016.
+
+\end{thebibliography}
