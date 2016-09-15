@@ -7,4 +7,3 @@ exp_report folder contains experiment report pdf and corresponding tex file.
 
 paper folder contains paper report pdf and corresponding tex file.
 
-we also implement a part of R-CNN in python, url: https://github.com/Orpine/RCNN-Python
